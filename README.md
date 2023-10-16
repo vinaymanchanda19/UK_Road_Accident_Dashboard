@@ -1,5 +1,5 @@
 # UK_Road_Accident_Dashboard
-![dashboard]([https://github.com/vinaymanchanda19/UK_Road_Accident_Dashboard/blob/main/dashboard.png])
+![dashboard](https://github.com/vinaymanchanda19/UK_Road_Accident_Dashboard/blob/main/dashboard.png)
 
 
 ## Introduction
